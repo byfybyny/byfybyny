@@ -1,5 +1,8 @@
 # 💫 About Me:
-📚 I’m currently a student<br>🌱 I’m currently learning python and other languages
+📚 computer science student<br>
+🌱 learning python and other languages<br>
+🛜 Passionate about network development and maintenance<br>
+👨‍💻 interest in cybersecurity and ethical hacking<br>
 
 
 ## 🌐 Socials:
